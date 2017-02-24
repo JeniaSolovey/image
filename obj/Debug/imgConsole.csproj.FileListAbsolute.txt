@@ -1,0 +1,12 @@
+D:\Хлам\studia\imgConsole\imgConsole\bin\Debug\imgConsole.exe.config
+D:\Хлам\studia\imgConsole\imgConsole\bin\Debug\imgConsole.exe
+D:\Хлам\studia\imgConsole\imgConsole\bin\Debug\imgConsole.pdb
+D:\Хлам\studia\imgConsole\imgConsole\obj\Debug\imgConsole.csprojResolveAssemblyReference.cache
+D:\Хлам\studia\imgConsole\imgConsole\obj\Debug\imgConsole.exe
+D:\Хлам\studia\imgConsole\imgConsole\obj\Debug\imgConsole.pdb
+D:\projects\VS_projects\studia\imgConsole\imgConsole\bin\Debug\imgConsole.exe.config
+D:\projects\VS_projects\studia\imgConsole\imgConsole\obj\Debug\imgConsole.exe
+D:\projects\VS_projects\studia\imgConsole\imgConsole\obj\Debug\imgConsole.pdb
+D:\projects\VS_projects\studia\imgConsole\imgConsole\bin\Debug\imgConsole.exe
+D:\projects\VS_projects\studia\imgConsole\imgConsole\bin\Debug\imgConsole.pdb
+D:\projects\VS_projects\studia\imgConsole\imgConsole\obj\Debug\imgConsole.csprojResolveAssemblyReference.cache
